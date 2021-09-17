@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="item1">opcion1</string>
+    <string name="item2">opcion2</string>
+    <string name="item3">opcion3</string>
+    <string name="item4">opcion4</string>
+</resources>
